@@ -13,3 +13,5 @@ and now going to learn various commands related to Git
 `git add`: command is used indorder to move a file from working area to staging area.
 
 `git pull`: used to reflect the changes made in github in git ,
+
+`git restore`: used to restore the values to working stage before commiting.
