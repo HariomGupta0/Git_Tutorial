@@ -9,3 +9,6 @@ Upto now I have learned Git remote
 and now going to learn various commands related to Git
 
 `git commit`: this command is used to finally comit the file. It also registers staging changes to file.
+
+`git add`: command is used indorder to move a file from working area to staging area.
+
