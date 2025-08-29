@@ -13,3 +13,11 @@ and now going to learn various commands related to Git
 `git add`: command is used indorder to move a file from working area to staging area.
 
 `git pull`: used to reflect the changes made in github in git ,
+
+### Recommended practise to do
+  - make changes
+  - git add <files>
+  - git commit
+  - git pull
+  - git push
+  
